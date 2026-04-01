@@ -1,0 +1,9 @@
+export const userSchema = {
+    type: "object",
+    properties: {
+        id: { type: "number" },
+        userName: { type: "string" },
+        password: { type: "string" }
+    },
+    required: ["id", "userName", "password"]
+};
