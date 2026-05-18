@@ -1,4 +1,4 @@
-# 🚀 AI-Powered API Test Automation Framework
+# 🚀 AI-Powered Hybrid-UI-API-automation Test Automation Framework
 
 ## 📌 Overview
 This project demonstrates an advanced API automation framework built using Playwright with AI-based validation and Allure reporting.
